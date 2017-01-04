@@ -1,0 +1,28 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+.gitignore
+.idea/artifacts/
+.idea/compiler.xml
+.idea/copyright/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/description.html
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/project-template.xml
+.idea/scopes/
+.idea/uiDesigner.xml
+.idea/workspace.xml
+web/fragment/
